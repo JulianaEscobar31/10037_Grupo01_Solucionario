@@ -1,0 +1,80 @@
+{
+  "peliculas": [
+    {
+      "Genero": "Ciencia Ficción",
+      "Nombre": "The Matrix",
+      "Protagonista": "Keanu Reaves"
+    },
+
+    {
+      "Genero": "Drama",
+      "Nombre": "Top Gun",
+      "Protagonista": "Tom Cruise"
+    },
+    {
+      "Genero": "Ciencia Ficción",
+      "Nombre": "Edge of Tomorrow",
+      "Protagonista": "Tom Cruise"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "John Wick ",
+      "Protagonista": "Keanu Reaves"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "Rambo ",
+      "Protagonista": "Sylvester Stallone"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "Mision Imposible ",
+      "Protagonista": "Tom Cruise"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "Constantine",
+      "Protagonista": "Keanu Reaves"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "Rocky ",
+      "Protagonista": "Sylvester Stallone"
+    },
+
+    {
+      "Genero": "Accion",
+      "Nombre": "Jack Reacher",
+      "Protagonista": "Tom Cruise"
+    },
+
+    {
+      "Genero": "Drama",
+      "Nombre": "El club de la Pelea",
+      "Protagonista": "Brad Pitt"
+    },
+
+    {
+      "Genero": "Ciencia Ficción",
+      "Nombre": "Inception",
+      "Protagonista": "Leonardo Di caprio"
+    },
+
+    {
+      "Genero": "Drama, Comedia",
+      "Nombre": "El Lobo de Wall Street",
+      "Protagonista": "Leonardo Di caprio"
+    },
+
+    {
+      "Genero": "Drama",
+      "Nombre": "Creed",
+      "Protagonista": "Sylvester Stallone"
+    }
+  ]
+}
